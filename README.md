@@ -36,8 +36,8 @@ The goal is to demonstrate efficient **CNN training workflows** and **evaluation
 | **Sample Predictions (optional)** | Qualitative examples of correctly and incorrectly classified images |
 
 <p align="center">
-  <img src="reports/figures/resnet50_learning_curves.png" width="48%" />
-  <img src="reports/figures/resnet50_confusion_matrix.png" width="48%" />
+  <img src="reports/resnet50_learning_curves.png" width="48%" />
+  <img src="reports/resnet50_confusion_matrix.png" width="48%" />
 </p>
 
 ---
