@@ -1,6 +1,7 @@
 # CIFAR-10 – ResNet50 Image Classification Benchmark (Public Version)
 
 This project presents a **deep learning benchmark** on the classic **CIFAR-10 dataset**, comparing training performance and model accuracy using **ResNet50**.  
+
 The goal is to demonstrate efficient **CNN training workflows** and **evaluation techniques** for small image datasets.
 
 ---
